@@ -61,7 +61,6 @@ A recreation of the popular online casino game "crash" with accurate casino odds
     
     // start node server (localhost:4000) and socket.io server (localhost:3001) 
     $ npm start 
-
 ### Environment Variables 
 * MONGOOSE_DB_LINK - URL to MongoDB server 
 * PASSPORT_SECRET -  Secret for Passport.js authorization and authentication 
